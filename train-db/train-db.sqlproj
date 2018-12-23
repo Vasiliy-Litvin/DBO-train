@@ -70,5 +70,6 @@
     <Build Include="Security\MS_SQLEnableSystemAssemblyLoadingKey.sql" />
     <Build Include="Server Objects\AlwaysOn_health.sql" />
     <Build Include="Server Objects\Table.sql" />
+    <Build Include="Server Objects\Table1.sql" />
   </ItemGroup>
 </Project>
